@@ -117,7 +117,7 @@ h1, h2, h3 {
   display: block;
   width: 30px;
   height: 30px;
-  background: url('img/List.png') center center no-repeat transparent;
+  background: url('/img/List.png') center center no-repeat transparent;
   background-size: cover;
 }
 
@@ -134,7 +134,7 @@ h1, h2, h3 {
 .hero__img-container {
   padding-top: 115px;
   padding-bottom: 118px;
-  background: url('img/Group\ 95.png') center right no-repeat;
+  background: url('/img/Group\ 95.png') center right no-repeat;
   background-size: contain;
 }
 
@@ -160,7 +160,7 @@ h1, h2, h3 {
 
 .advantages__img {
   height: 100%;
-  background: url('img/Vectary\ texture.jpg') top 30% center no-repeat transparent;
+  background: url('/img/Vectary\ texture.jpg') top 30% center no-repeat transparent;
   background-size: contain;
 }
 
@@ -193,15 +193,15 @@ h1, h2, h3 {
 }
 
 .advantage__icon-eye {
-  background-image: url('img/eye.svg')
+  background-image: url('/img/eye.svg')
 }
 
 .advantage__icon-victory {
-  background-image: url('img/victory.svg')
+  background-image: url('/img/victory.svg')
 }
 
 .advantage__icon-bulhorn {
-  background-image: url('img/bulhorn.svg')
+  background-image: url('/img/bulhorn.svg')
 }
 
 .advantages__descr-bottom {
@@ -282,19 +282,19 @@ h1, h2, h3 {
 }
 
 .courses__cinema4d {
-  background-image: url('img/cinema4d.jpg');
+  background-image: url('/img/cinema4d.jpg');
 }
 
 .courses__blender {
-  background-image: url('img/blender.jpg');
+  background-image: url('/img/blender.jpg');
 }
 
 .courses__3dmax {
-  background-image: url('img/3dmax.jpg');
+  background-image: url('/img/3dmax.jpg');
 }
 
 .courses__zbrush {
-  background-image: url('img/zbrush.jpg');
+  background-image: url('/img/zbrush.jpg');
 }
 
 .courses__column {
@@ -420,7 +420,7 @@ h1, h2, h3 {
   .hero__img-container {
     padding-top: 115px;
     padding-bottom: 118px;
-    background: url('img/Group_768.png') top 43% right no-repeat;
+    background: url('/img/Group_768.png') top 43% right no-repeat;
     background-size: initial;
   }
 
@@ -466,19 +466,19 @@ h1, h2, h3 {
   }
 
   .courses__cinema4d {
-    background-image: url('img/cinema4d_768.jpg');
+    background-image: url('/img/cinema4d_768.jpg');
   }
 
   .courses__blender {
-    background-image: url('img/blender_768.jpg');
+    background-image: url('/img/blender_768.jpg');
   }
 
   .courses__3dmax {
-    background-image: url('img/3dmax_768.jpg');
+    background-image: url('/img/3dmax_768.jpg');
   }
 
   .courses__zbrush {
-    background-image: url('img/zbrush_768.jpg');
+    background-image: url('/img/zbrush_768.jpg');
   }
 
   .courses__lasting {
@@ -555,19 +555,19 @@ h1, h2, h3 {
   }
 
   .courses__cinema4d {
-    background-image: url('img/cinema4d_576.jpg');
+    background-image: url('/img/cinema4d_576.jpg');
   }
 
   .courses__blender {
-    background-image: url('img/blender_576.jpg');
+    background-image: url('/img/blender_576.jpg');
   }
 
   .courses__3dmax {
-    background-image: url('img/3dmax_576.jpg');
+    background-image: url('/img/3dmax_576.jpg');
   }
 
   .courses__zbrush {
-    background-image: url('img/zbrush_576.jpg');
+    background-image: url('/img/zbrush_576.jpg');
   }
 
   .courses__card-bottom {
@@ -701,19 +701,19 @@ h1, h2, h3 {
   }
 
   .courses__cinema4d {
-    background-image: url('img/cinema4d_320.jpg');
+    background-image: url('/img/cinema4d_320.jpg');
   }
 
   .courses__blender {
-    background-image: url('img/blender_320.jpg');
+    background-image: url('/img/blender_320.jpg');
   }
 
   .courses__3dmax {
-    background-image: url('img/3dmax_320.jpg');
+    background-image: url('/img/3dmax_320.jpg');
   }
 
   .courses__zbrush {
-    background-image: url('img/zbrush_320.jpg');
+    background-image: url('/img/zbrush_320.jpg');
   }
 
   .courses__heading {
